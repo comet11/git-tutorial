@@ -2,4 +2,4 @@
 
 feature-Aって入れたやで
 -fix-B
--feature-C
+-RE:feature-C
